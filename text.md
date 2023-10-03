@@ -1,1 +1,3 @@
 coffeeId=price_1NxEjKALqsWPo0rqkj0VDe5E
+sunglassesId=price_1NxEmzALqsWPo0rqJjH7ZEon
+cameraId=price_1NxEo2ALqsWPo0rqEJpQvUem
